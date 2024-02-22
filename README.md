@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manny0919
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any project where i can keep learning
 - 📫 How to reach me manuelatamirano399@gmail.com
 
