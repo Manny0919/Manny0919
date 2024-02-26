@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manny0919
+- 👋 Hi, I’m @Manny_Alt
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on any project where i can keep learning
